@@ -18,3 +18,4 @@
 <p><img src="arch.png" alt="arch" width="40" height="40"/><img src="hypr.png" alt="hypr" width="40" height="40"/></p>
 </div>
 </div>
+<div class="tenor-gif-embed" data-postid="26743262" data-share-method="host" data-aspect-ratio="0.7125" data-width="100%"><a href="https://tenor.com/view/programming-rust-c-lang-cpp-cplusplus-gif-26743262">Programming Rust GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
