@@ -17,4 +17,5 @@
 <h2 align="center">OS btw</h2>
 <p><img src="arch.png" alt="arch" width="40" height="40"/><img src="hypr.png" alt="hypr" width="40" height="40"/></p>
 </div>
+<img src="pro.gif" alt="arch""/>
 </div>
