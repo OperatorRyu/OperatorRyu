@@ -1,40 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Orbitron&display=swap" rel="stylesheet">
-<style>
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background: #000;
-    color: #000000;
-    overflow: hidden;
-  }
-  .video-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    pointer-events: none;
-  }
-  .content {
-    text-align: center;
-    z-index: 1;
-  }
-  .section {
-    font-family: "Orbitron", sans-serif;
-    text-align: center;
-    padding: 20px;
-    margin: 20px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 1px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-  }
-</style>
+
 <div class="content">
 <video class="video-background" autoplay loop muted>
   <source src="background.mp4" type="video/mp4">
